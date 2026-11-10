@@ -8,3 +8,5 @@
 npm install
 npm start
 ```
+
+Режим Хардкор: 3 попытки.
