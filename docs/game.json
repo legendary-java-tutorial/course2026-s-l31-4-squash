@@ -8,9 +8,8 @@
   "cold": "холодно",
   "attempts": 7,
   "themes": {
-    "forest": {
-      "win": "Угадал!",
-      "hot": "тепло"
+    "sea": {
+      "win": "угадал!"
     }
   },
   "hard": {
