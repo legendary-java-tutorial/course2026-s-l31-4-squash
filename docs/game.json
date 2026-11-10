@@ -9,7 +9,7 @@
   "attempts": 7,
   "themes": {
     "forest": {
-      "win": "угадал!",
+      "win": "Угадал!",
       "hot": "тепло"
     }
   },
